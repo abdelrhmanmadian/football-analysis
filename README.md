@@ -14,6 +14,15 @@ Match analysis projects using Python and StatsBomb open data.
 meaningless short passes in their own half. Salah's second-minute goal changed the 
 entire tactical dynamic of the match.
 
+### Defensive Midfielder Recruitment — La Liga 2015/16
+- Scatter plot comparing progressive passes vs defensive actions
+- Radar chart showing Busquets' complete DM profile vs squad average
+- Full recruitment analysis identifying the ideal DM profile
+
+**Key finding:** Busquets registers more than double the squad average in both 
+defensive actions and passing volume, confirming him as the archetypal modern 
+defensive midfielder.
+
 ## Tools Used
 - Python
 - pandas

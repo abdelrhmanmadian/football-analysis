@@ -42,6 +42,15 @@ deliberately using set pieces to create open play situations rather than
 direct goal threats — reflecting their dominance in open play with Messi, 
 Suarez, and Neymar.
 
+### Barcelona Season Performance Dashboard — La Liga 2015/16
+- Season performance dashboard comparing goals, xG, passes and pressing
+- Match by match xG chart across all 38 matches
+- Full written analysis connecting all four metrics
+
+**Key finding:** Barcelona completed more than double their opponents' passes 
+and scored 108 goals vs 19 conceded — but pressed less than any opponent 
+because they simply never gave the ball away.
+
 ## Tools Used
 - Python
 - pandas

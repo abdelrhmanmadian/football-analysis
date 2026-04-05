@@ -32,6 +32,16 @@ defensive midfielder.
 deep mid press against Atlético Madrid to avoid counter attacks, high press 
 against Elche to win the ball in dangerous areas quickly.
 
+### Barcelona Set Piece Analysis — La Liga 2015/16
+- Corner delivery map showing outcomes and danger zones
+- Left vs right side delivery comparison
+- Full set piece strategy analysis
+
+**Key finding:** Barcelona converted only 1.7% of corners into goals, 
+deliberately using set pieces to create open play situations rather than 
+direct goal threats — reflecting their dominance in open play with Messi, 
+Suarez, and Neymar.
+
 ## Tools Used
 - Python
 - pandas

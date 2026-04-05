@@ -4,7 +4,7 @@ Match analysis projects using Python and StatsBomb open data.
 
 ## Projects
 
-### UCL Final 2018 — Liverpool vs Tottenham
+### UCL Final 2019 — Liverpool vs Tottenham
 - Shot map with xG weighting
 - Pass map for both teams
 - Press map showing intensity zones

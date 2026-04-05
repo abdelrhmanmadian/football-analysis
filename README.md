@@ -23,6 +23,15 @@ entire tactical dynamic of the match.
 defensive actions and passing volume, confirming him as the archetypal modern 
 defensive midfielder.
 
+### Barcelona Pressing Intensity Analysis — La Liga 2015/16
+- PPDA calculated across a full season match by match
+- Bar chart comparing pressing intensity against every opponent
+- Press map comparing high press vs low press matches
+
+**Key finding:** Barcelona adapted their pressing style based on the opponent — 
+deep mid press against Atlético Madrid to avoid counter attacks, high press 
+against Elche to win the ball in dangerous areas quickly.
+
 ## Tools Used
 - Python
 - pandas

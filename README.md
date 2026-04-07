@@ -51,6 +51,15 @@ Suarez, and Neymar.
 and scored 108 goals vs 19 conceded — but pressed less than any opponent 
 because they simply never gave the ball away.
 
+### AFCON 2023 Final — Nigeria vs Côte d'Ivoire
+- Shot map with xG analysis — open play only
+- Pass map comparing both teams' build-up style
+- Pressing intensity map showing Nigeria's wide press vs Côte d'Ivoire's central press
+- Pass network revealing Côte d'Ivoire's build-up triangle through Seri, Aurier, and Konan
+
+**Key finding:** Côte d'Ivoire created 18 shots to Nigeria's 5 with an xG of 1.41 vs 0.26, completely dominating the final. Nigeria's 2-1 scoreline flattered them — the data confirms Côte d'Ivoire deserved to win and controlled the match from start to finish.
+
+
 ## Tools Used
 - Python
 - pandas

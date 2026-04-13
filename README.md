@@ -59,6 +59,17 @@ because they simply never gave the ball away.
 
 **Key finding:** Côte d'Ivoire created 18 shots to Nigeria's 5 with an xG of 1.41 vs 0.26, completely dominating the final. Nigeria's 2-1 scoreline flattered them — the data confirms Côte d'Ivoire deserved to win and controlled the match from start to finish.
 
+### Omar Marmoush — Player Profile Report — AFCON 2023
+- Shot map showing chance locations and xG
+- Touch heat map revealing movement zones
+- Pass map with accuracy breakdown
+- Dribble map showing success rate by zone
+- Player profile radar chart across key metrics
+
+**Key finding:** Marmoush operated entirely on the left wing cutting inside 
+to shoot, scored 2 goals from 9 shots at 22% conversion rate, and completed 
+63.2% of 19 dribbles across all zones — proving his quality on the biggest 
+African stage just before his explosive Bundesliga season.
 
 ## Tools Used
 - Python

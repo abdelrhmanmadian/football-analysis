@@ -71,6 +71,16 @@ to shoot, scored 2 goals from 9 shots at 22% conversion rate, and completed
 63.2% of 19 dribbles across all zones — proving his quality on the biggest 
 African stage just before his explosive Bundesliga season.
 
+### FIFA World Cup 2026 — ML Bracket Prediction
+
+* Random Forest model trained on 604 official post-Qatar 2022 matches
+* Full group stage simulation across all 12 groups with 48 teams
+* Official knockout bracket M73–M104 following FIFA 2026 regulations
+* Extra time and penalty shoot-out for all knockout matches
+* Best 8 third-place teams selected using FIFA's 495-scenario system
+
+**Key finding:** The model predicts France as the 2026 World Cup champion, beating Argentina 1–0 after extra time at MetLife Stadium on July 19 — Spain finish third after defeating England 2–0. The Random Forest classifier achieves 75.2% accuracy on 5-fold cross-validation across 604 matches spanning Euro 2024, Copa América 2024, AFCON 2023 and 2025, and all confederation World Cup qualifiers.
+
 ## Tools Used
 - Python
 - pandas

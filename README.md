@@ -86,6 +86,7 @@ African stage just before his explosive Bundesliga season.
 - pandas
 - mplsoccer
 - StatsBomb open data
+- scikit-learn
 
 ## About
 CS student specializing in Data Science with a focus on football analytics.
